@@ -4,7 +4,7 @@
 // This is a program written to maintain a personal music library, 
 // using a linked list to hold the songs in the library.
 //
-// Author: <Your Name Goes Here>
+// Author: Meggie Chen
 // Student Number: <Your Student Number Goes Here>
 //
 
